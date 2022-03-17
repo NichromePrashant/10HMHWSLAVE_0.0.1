@@ -1,0 +1,45 @@
+-isa=rxv2
+-MAKEUD="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\HardwareDebug\src\smc_gen\Config_ICU"
+-include="C:\Program Files (x86)\Renesas\RX\3_3_0\include"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_bsp"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_config"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_ICU"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_PORT"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_flash_rx"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_flash_rx\src"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_flash_rx\src\flash_type_1"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_flash_rx\src\flash_type_3"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_flash_rx\src\flash_type_4"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_flash_rx\src\targets"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_rscan_rx"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_rscan_rx\src"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_sci_rx"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_sci_rx\src"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_byteq"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_byteq\src"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_CMT0"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_CMT1"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_CMT2"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_CMT3"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_MTU0"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\Config_WDT"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_datfrx_rx"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_datfrx_rx\src"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_datfrx_rx\src\flash_type_1"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_datfrx_rx\src\flash_type_2"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_datfrx_rx\src\flash_type_3"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_datfrx_rx\src\flash_type_4"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\general"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_pincfg"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen\r_bsp"
+-include="D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\src\smc_gen" 
+-lang=c99
+-utf8
+-nomessage
+-output=obj
+-obj_path="src/smc_gen/Config_ICU"
+-debug
+-outcode=utf8
+-nologo 

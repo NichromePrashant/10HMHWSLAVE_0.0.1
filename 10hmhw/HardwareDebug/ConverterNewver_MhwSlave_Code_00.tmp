@@ -1,0 +1,8 @@
+-MAKEUD=D:\OneDrive - Nichrome India Ltd\Desktop\pract1\pract1\10HDMHWSLAVE_V0.001\Newver_MhwSlave_Code_00\HardwareDebug\\Newver_MhwSlave_Code_00_c.ud
+-input="Newver_MhwSlave_Code_00.abs"
+-form=stype
+-output="Newver_MhwSlave_Code_00.mot"
+-byte_count=10
+-nologo
+-nomessage
+-exit
